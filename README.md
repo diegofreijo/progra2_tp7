@@ -39,13 +39,30 @@ Las pautas y consejos son los mismos que les di para la exposición del TP3.
 
 ## Requerimientos
 
-Este TP es mas una formalidad que otra cosa. Lo que espero es que:
+Este TP es mas una formalidad que otra cosa.
+
+### Obligatorios para todos
 
 1. Hayan corregido todos los problemas que vienen arrastrando de los TPs anteriores
 2. El jugador pueda perder
 3. El jugador pueda ganar
 4. Que haya alguna forma (muy simple) de que el jugador se entere si gano o perdió: una ventana, un efecto de partículas, un sonido, etc.
-5. Solo para Lola: Implementar una lámpara (ojo que no es una linterna) que se le acabe la pila o vela que lleva, y que hayan pickups para recargarla.
+
+### Obligatorio para Lola
+
+1. Implementar una lámpara (ojo que no es una linterna) que se le acabe la pila o vela que lleva, y que hayan pickups para recargarla.
+
+### Opcional pero muy importante
+
+Uno de ustedes, quien no voy a revelar su identidad para protegerlo, propuso que todos hagan el antifede que estuvo desarrollando en todas las entregas hasta ahora. 
+
+Para quien no sepa lo que es un antifede: es una expresión artística narrativa que permite percibir el estado de ánimo del desarrollador de videojuegos en Unity. Una práctica muy importante.
+
+Estoy dejando en este repositorio los antifedes que recibi hasta ahora.
+
+Pero voy a permitir que el antifede pueda ser anti-cualquiera si lo desean 😀
+
+### Opcionales
 
 Si tienen el tiempo y las ganas de agregar mas cosas al juego, pueden:
 
@@ -53,3 +70,6 @@ Si tienen el tiempo y las ganas de agregar mas cosas al juego, pueden:
 - Agregar música y efectos sonoros
 - Agregar la interfaz grafica básica: un menú principal, de pausa, etc
 - Agregar más tipos de armas, de enemigos, de objetos a recolectar, etc
+
+
+
