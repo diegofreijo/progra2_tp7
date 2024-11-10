@@ -56,11 +56,11 @@ Este TP es mas una formalidad que otra cosa.
 
 Uno de ustedes, quien no voy a revelar su identidad para protegerlo, propuso que todos hagan el antifede que estuvo desarrollando en todas las entregas hasta ahora. 
 
-Para quien no sepa lo que es un antifede: es una expresión artística narrativa que permite percibir el estado de ánimo del desarrollador de videojuegos en Unity. Una práctica muy importante.
+Para quien no sepa lo que es un antifede: es una expresión artística narrativa que permite percibir el estado de ánimo del desarrollador de videojuegos en Unity, y como canaliza todos los problemas hacia Fede. Una práctica muy importante para la salud física y mental.
 
 Estoy dejando en este repositorio los antifedes que recibi hasta ahora.
 
-Pero voy a permitir que el antifede pueda ser anti-cualquiera si lo desean 😀
+Pero todos tenemos diferentes Fedes en la vida, así que voy a permitir que el antifede pueda ser anti-cualquiera si así lo desean 😀
 
 ### Opcionales
 
